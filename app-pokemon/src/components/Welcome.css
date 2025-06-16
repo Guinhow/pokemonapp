@@ -1,0 +1,24 @@
+* {
+  background-color: #3e3caf;
+}
+
+.welcome-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.welcome-button {
+  margin-top: 1.5rem;
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #1c1c1d;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.welcome-button:hover {
+  background-color: #5c5c5c;
+}
